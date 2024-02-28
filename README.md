@@ -1,0 +1,2 @@
+# Diverging-stacked-bar-charts-to-answer-criticisms-leveled-using-MS-Excel-for-professional-analytics
+In this project, the focus is on using these charts to show the spread of positive and negative values, such as Strongly Disagree to Strongly Agree (without a Neutral category). I will thus offer all recommendations, measures, and corrections that must be taken, along with the decisions &amp; solutions &amp; answers that must be made, after examining data
